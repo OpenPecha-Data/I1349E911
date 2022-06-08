@@ -1,10 +1,10 @@
-|P006776|ཀློང་ཆེན་སྙིང་ཐིག་གི་ནང་སྒྲུབ་རིག་འཛིན་འདུས་པའི་ཟིན་བྲིས་རིག་འཛིན་ཞལ་ལུང་བདེ་ཆེན་དཔལ་སྟེར། 
+|I1349E911|ཀློང་ཆེན་སྙིང་ཐིག་གི་ནང་སྒྲུབ་རིག་འཛིན་འདུས་པའི་ཟིན་བྲིས་རིག་འཛིན་ཞལ་ལུང་བདེ་ཆེན་དཔལ་སྟེར། 
 | --- | --- 
 |Alternative Title |
 |Author| རྡོ་གྲུབ་ཆེན ༠༣་འཇིགས་མེད་བསྟན་པའི་ཉི་མ།
 |BDRC ID | W23783
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P006776)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P006776/releases/download/v1/longchen_nyingtik_gi_nang_drub_plain_P006776.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P006776/releases/download/v1/longchen_nyingtik_gi_nang_drub_pages_P006776.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I1349E911)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I1349E911/releases/download/v1/longchen_nyingtik_gi_nang_drub_plain_I1349E911.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I1349E911/releases/download/v1/longchen_nyingtik_gi_nang_drub_pages_I1349E911.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W23783)
